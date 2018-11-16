@@ -1,1 +1,2 @@
-*Italic* and **Bold**
+*Italic* and **Bold** 
+:+1:
